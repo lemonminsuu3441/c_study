@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1에서 n까지의 홀수 합과 짝수 합 출력하기.cpp">
+    <ClCompile Include="반감기를 이용한 물질의 잔여량 예측하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5acf767d-53bd-4ebe-956e-3e687a52cdbd}</ProjectGuid>
-    <RootNamespace>study87</RootNamespace>
+    <ProjectGuid>{fc3c3be0-41b6-41ed-af7c-8c0c8594eecc}</ProjectGuid>
+    <RootNamespace>study90</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1에서 n까지의 홀수 합과 짝수 합 출력하기.cpp" />
+    <ClCompile Include="알파벳 소문자를 압력받아 대문자로 출력하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
