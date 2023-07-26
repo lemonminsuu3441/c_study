@@ -1,0 +1,8 @@
+﻿  형 변환 연산자 이해히기.cpp
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(13,8): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(16,38): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(16,38): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(17,55): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(17,55): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study43\형 변환 연산자 이해히기.cpp(19,18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  study43.vcxproj -> C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\x64\Debug\study43.exe

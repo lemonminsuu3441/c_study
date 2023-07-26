@@ -1,0 +1,4 @@
+﻿  1에서 n의 합을 n이 1일 때부터 10일 때까지 구하기.cpp
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study75\1에서 n의 합을 n이 1일 때부터 10일 때까지 구하기.cpp(13,45): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study75\1에서 n의 합을 n이 1일 때부터 10일 때까지 구하기.cpp(13,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 3개가 제공되었습니다.
+  study75.vcxproj -> C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\x64\Debug\study75.exe
