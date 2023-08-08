@@ -1,4 +1,4 @@
 ﻿  연습문제.cpp
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study50\연습문제.cpp(9,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study50\연습문제.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%.lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-  study50.vcxproj -> C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\x64\Debug\study50.exe
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study50\연습문제.cpp(9,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study50\연습문제.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%.lf'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  study50.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\x64\Debug\study50.exe

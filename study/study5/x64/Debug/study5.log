@@ -1,18 +1,18 @@
 ﻿  정수형 상수 사용하기.cpp
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(5,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(5,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '% d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%llu'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
-C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%I64u'을(를) 사용하는 것이 좋습니다.
-  study5.vcxproj -> C:\Users\minsu\OneDrive\바탕 화면\방학 공부\study\x64\Debug\study5.exe
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(5,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(5,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(5,9): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): warning C4477: 'printf' : 서식 문자열 '% d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(8,9): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%llu'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%Iu'을(를) 사용하는 것이 좋습니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study5\정수형 상수 사용하기.cpp(9,9): message : 서식 문자열에서 '%I64u'을(를) 사용하는 것이 좋습니다.
+  study5.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\x64\Debug\study5.exe
