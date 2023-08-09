@@ -1,6 +1,0 @@
-﻿  ch6-3.h
-C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study111\ch6-3.h(1,1): warning C4828: 파일에 0x6e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
-  ch6-4.h.cpp
-C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study111\ch6-3.h(1,1): warning C4828: 파일에 0x6e 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
-  코드를 생성하고 있습니다...
-  study111.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\x64\Debug\study111.exe

@@ -1,3 +1,0 @@
-﻿  연습문제.cpp
-C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study52\연습문제.cpp(14,9): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xec'이(가) 있습니다.
-  study52.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\x64\Debug\study52.exe
