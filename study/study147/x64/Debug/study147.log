@@ -1,0 +1,10 @@
+﻿  다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(18,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(18,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(18,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(18,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(24,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(24,10): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(31,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study147\다양한 배열 원소 참조 방법을 보여주는 프로그램.cpp(31,10): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  study147.vcxproj -> C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\x64\Debug\study147.exe
