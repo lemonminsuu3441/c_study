@@ -92,7 +92,7 @@ void insert_sort(int* a)  // 삽입 정렬: 배열명[첨자] 표기법만 이용
 	{
 		target = a[i];  // 정렬한 원소 a[i]의 값을 target에 대피
 
-		for (j = i - 1; j >= 0; j++)  // a[i-1]~a[0] 중에서 a[i]를 삽입할 위치 찾기
+		for (j = i - 1; j >= 0; j--)  // a[i-1]~a[0] 중에서 a[i]를 삽입할 위치 찾기
 		{
 			if (target < a[j])
 			{
@@ -102,9 +102,8 @@ void insert_sort(int* a)  // 삽입 정렬: 배열명[첨자] 표기법만 이용
 			{
 				break;  // target을 정확한 위치에 저장하기
 			}
-			a[j + 1] = target;
 		}
-		
+		a[j + 1] = target;
 	}
 
 }
