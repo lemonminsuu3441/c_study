@@ -1,0 +1,5 @@
+﻿  구조체 배열을 함수로 전달하여 사용자 정보를 입출력하기.c
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study165\구조체 배열을 함수로 전달하여 사용자 정보를 입출력하기.c(23,8): warning C4047: '함수': 'person **'의 간접 참조 수준이 'person [1000]'과(와) 다릅니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study165\구조체 배열을 함수로 전달하여 사용자 정보를 입출력하기.c(23,8): warning C4024: 'print': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study165\구조체 배열을 함수로 전달하여 사용자 정보를 입출력하기.c(55,27): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\minsu\OneDrive\문서\GitHub\c_study\study\study165\구조체 배열을 함수로 전달하여 사용자 정보를 입출력하기.c(67,10): warning C4098: 'print': 'void' 함수에서 값을 반환하고 있습니다.
